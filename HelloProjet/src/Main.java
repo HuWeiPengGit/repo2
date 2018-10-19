@@ -7,6 +7,8 @@ public class Main {
         System.out.println("HelloWorld!");
 	int i = 10;
 	int j = 2;
-	System.out.println(i / j);
+	int k = i / j;
+	System.out.println(i + j);
+	System.out.println(k);
     }
 }
